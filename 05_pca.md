@@ -91,10 +91,10 @@ Los resultados típicos para NCI60 muestran algo así:
 
 | Componentes | Varianza acumulada |
 |-------------|-------------------|
-| 2 | ~28% |
-| 3 | ~37% |
-| 5 | ~50% |
-| 10 | ~65% |
+| 2 | ~20% |
+| 3 | ~30% |
+| 5 | ~40% |
+| 10 | ~55% |
 
 ¿Parece poco? Con 6,830 genes, concentrar el 28% de toda la varianza en solo 2 números es en realidad bastante. Para propósitos de **visualización**, PC1 y PC2 son suficientes. Para análisis más precisos se recomienda usar más componentes.
 
