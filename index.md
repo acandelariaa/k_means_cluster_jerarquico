@@ -30,7 +30,7 @@ la construcción de jerarquías.
 
 ## Tutorial paso a paso
 
-- [Implementacion PCA](pasos.md)
+- [Procedimiento](pasos.md)
 
 ---
 
